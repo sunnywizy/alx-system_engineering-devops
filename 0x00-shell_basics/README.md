@@ -1,0 +1,1 @@
+This script show the absoulte way to print your path in shell or CLI
