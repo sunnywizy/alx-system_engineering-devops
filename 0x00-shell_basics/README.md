@@ -1,1 +1,1 @@
-This script show the absoulte way to print your path in shell or CLI
+This script show the absoulte way to print your path and also list file in shell or CLI.
