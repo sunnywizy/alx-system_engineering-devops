@@ -1,0 +1,1 @@
+this directory have to deal with everything you need to know concerning the shell permissions.
