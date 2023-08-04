@@ -7,3 +7,10 @@ This directory give a clear picture concerning shell permission.
 5. This is a script that adds execute permission to the owner of the file.
 6. This is a script that adds execute permission to the owner and the group owner, and read permission to other user, of the file.
 7. This is a script that adds execution permission to the owner, the group owner and the other user, to the file.
+8. This is a script that sets the permission to the file.
+9. This is a script that sets the mode of the file.
+10. This is a script that sets the mode of the file hello the same as olleh's mode.
+11. This is a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
+12. This is a script that creates a directory called my_dir with permissions 751 in the working directory.
+13. This is a script that changes the group owner to school for the file hello.
+14. 
