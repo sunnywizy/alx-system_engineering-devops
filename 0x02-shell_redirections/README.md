@@ -1,0 +1,1 @@
+This contain some of thing you have to know aboout shell redirection in linux.
