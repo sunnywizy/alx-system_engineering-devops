@@ -1,0 +1,1 @@
+This directory has to deal with any this that concerns shell variables expansions
