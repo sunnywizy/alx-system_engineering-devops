@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# Displays 'Best School' in stdout 10 times using the until loop
+num=0
+
+until [ $num -ge 10 ]
+do
+    echo "Best School"
+    ((num++))
+done
