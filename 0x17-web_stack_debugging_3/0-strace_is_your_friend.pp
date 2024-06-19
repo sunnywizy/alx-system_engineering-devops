@@ -1,6 +1,5 @@
-# Fixes bad `phpp` extensions to `php` in the WordPress file `wp-settings.php`.
-
-exec { 'fix-wordpress':
-  command => 'sed -i s/phpp/php/g /var/www/html/wp-settings.php',
-  path    => '/usr/local/bin/:/bin/'
+# Makes sure that file exists
+file { '/var/www/html/wp-includes/class-wp-locale.phpp':
+          ensure => present,
+          source => '/var/www/html/wp-includes/class-wp-locale.php',
 }
