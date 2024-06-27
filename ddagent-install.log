@@ -1,0 +1,9 @@
+[34m
+* Datadog Agent 7 install script v1.32.0
+[0m
+[34m
+* Installing apt-transport-https, curl and gnupg
+[0m
+Hit:1 http://archive.ubuntu.com/ubuntu bionic InRelease
+Get:2 http://archive.ubuntu.com/ubuntu bionic-updates InRelease [102 kB]
+Get:3 http://security.ubuntu.com/ubuntu bionic-security InRelease [102 kB]
